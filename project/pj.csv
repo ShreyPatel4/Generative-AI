@@ -1,0 +1,169 @@
+Project,Authors
+Diffusion Jockey: Pre-trained Image Models for Controlled Audio Generation,"Varun Shenoy, Ben Auslin, Suppakit Waiwitlikhit"
+A healthcare agent (for low resource settings),Shreyas Lakhtakia
+Caption Conditional Pokémon Generation,"Tony Sun, Channing Lee"
+EEG-to-Image: toward a more practical model,"Divija Hasteer, Prathik Rao, Adrien Specht"
+Generating High-Quality Brand Logos using Stable Diffusion,"Megan Dass, Pete Rushton, Myra Deng"
+Automating Code Review With Few-Shot In-Context Learning,Yipeng Liu
+Artist-Specific Finetuning for Generative Music,"Michael Xue, Edward Diller"
+Modeling an Inhospitable World: Forecasting climate change impacts on land use & cover using variational autoencoders,"Shayana Venukanthan, Divya Nagaraj"
+Traditional meets artificial: tile-based synthesis of scratchboard art using Stable Diffusion,Miranda Li
+Image Segmentation and Deep Generative In-painting,"Ehsan Shahrian, Jaisal Kothari, Kelvin Christian"
+Customized Doggie Portrait,Liuxiao Zhang
+Generating Galaxies for Strong Lens Simulations,Sydney Erickson
+Stable Diffusion Personalization,Wen Xu
+VirtuVogue: AI-Generated Garment & Virtual Try-On using Diffusion Models,Keyuan Wu
+Copyright Protection for Generative AI and Large Language Models,Wei-Ning Chen
+2D Game Asset Creation Using Stable Diffusion,Zhouhua Xie
+Few-Shot Video Generation with Recurrent Motion Prediction using Pre-trained Image Diffusion Models,"Ryan Li, Churan He, Yingying Chen"
+"Asset Price Forecasting with Deep Generative Models: Predicting Daily Highs, Lows, and Closes for Targeted Trading Strategies","Flor Lozano-Byrne, Masamine Someha, Dhruv Aggarwal"
+Learning Representations of NBA Player Performances Using Variational Autoencoder,Jacob Deutsch
+Towards Personalized Music Generation via Deep Reinforcement Learning,Giancarlo Ricci
+Fast Personal Stable Diffusion,Nick Mecklenburg
+NeRFBusters in the Stanford Wild,Timothy Yao
+Generative Diffusion Models for 3D Protein-Binding Molecule Structure,"Yilin Chen, Tianxiang Dai, Shuo Harper Hua"
+Direcet Preference Optimization for Diffusion Models,Meihua Dang
+Increasing the Resolution of Low-Fidelity Physics Simulations Using Stable Diffusion Models,"Ali Lasemi, Marie-Jo Azzi, Joshua Barnett"
+Fusion video game characters,Gautham Dixit
+Generative Models for Synthetically Viable Materials,Khalid El-Awady
+Removing adverse weather impacts from autonomous vehicle camera systems with generative techniques,"Chunming Peng, Yun Kun Zhang, Jason Alexander Chan"
+StartGAN: Analyzing the Impact of Discriminator Pre-Training on Final Generator Performance,"Sri Jaladi, Andy Liang, Abhinav Sinha"
+SceneStitch: Garment Try-On in a World of Changing Horizons,"Zhengjia Huang,Li Tian,Jing Gong"
+Project Milestone: Detecting the Shapes in a Slide from an Image using a Multimodal Generative Model,"Hashem Elezabi, Ahmed Sharaf"
+ACT + Diffusion Policy,"Yihe Tang, Max Sobol Mark, Avidesh F Marajh"
+Textual Inversion for 3D Generative Models,Virginia Adams
+Customizing and Enhancing Stable Diffusion for Style LoRA and Subject-Specific Generation,Katherine Chen
+ADISS: Ad-Hoc Indoor Scene Synthesis with 3D Reconstructed Objects,"Mofan Zhang, Martin JJ. Bucher, Shuojia Fu"
+Employing Deep Generative Models in Drug Discovery and Modeling Single-Cell Responses,"Denis Tolkunov, Billur Engin, Chi Wai Lau"
+Unconditional Discrete Diffusion Model for 3D Building Generation,Alberto Tono
+Generative model of the joint distribution of protein sequence and structure for protein design,"Jinho Kim,Tianyu Lu,Talal Wadatalla"
+3D-aware Instruction-guided 3D Editing,"Mingjian Jiang, Xinyi Zhao, Zheng Wang"
+The Platonian 'Form' in Variational Autoencoders: Dissecting Latent Space Properties,"Junyang Sun, Bi Tian Yuan"
+Diffusion-LM for Sentence Embeddings,Maggie Wu
+FACETIME: Age-Guided Child Face Generation from Parental Images,"Anirudh Sriram, Shoaib Mohammed"
+Generative Machine Learning for Modeling Viscoelasticity in Soft Tissues,Jeremy McCulloch
+Video Chapterization Using Generative Reconstruction,Siqi Zuo
+BachBot - Bridging Classical Elegance with AI Innovation,"Kyuil Lee, Dezhi Yu, Yongkang Huang"
+Zero-shot Image-to-3D Generation Using Diffusion Guidance and GAN,Frank Zhao
+Target-aware Molecule Generation via Direct Preference Optimization,Siyi Carrie Gu
+Diffusing Across the Spider-Verse,"Anuj Shetty, Huram-Abi Nzia Yotchoum, Daniel Sorvisto"
+3D Model Editing via Text Commands,"Fang Shu, Jian Xu, Wai Yam Gordon Tsai"
+Stable Diffusion and Beyond: text-to-image-to-video,"Jayadev Rajan, Arihant Jain"
+Generative Adversarial Networks in Anomaly Detection: Multivariate Time Series Analysis for Power System,Rafael Carvalho Marques
+Customization of Stable Diffusion Models with Different Methods,"Ang Li, Haishan Gao, Tommy Li"
+Correcting Human Posture in 2D Images with Stable Diffusion,Will Baxley
+Stable Diffusion and Beyond,Xian Wu
+Predicting Three-Dimensional RNA Structure with Graph-Based Diffusion Models,Kaya Güvendi
+Applying LoRA to Stable Diffusion with Impressionist Landscape Art,Jensen Hwa
+Exploring the Noise Space of Latent Diffusion Models,"Medhanie Irgau, Chinmay Lalgudi"
+Motion Interpolation via Autoregressive Joint Pose Sampling for Physics-Based Character Control,Michael Piseno
+Stable Diffusion with Extension to Text-to-Video Generation,"Yasuhiro Yoshida, Thomas Cheung, Qi Han"
+Generating VNG Characters with Pose Control,"Chenyang Dai, Jingwei Ma"
+A retraction-map based approach to image generation using Lipschitz contraction operators,"Joshua Kazdan, Rex Shen, Hao Sun"
+GPTTT: Teaching LLMs how to play Tic-Tac-Toe,Mehul Arora
+Inference-time Soft-Constrained Decoding For Autoregressive Language Models,Atem Aguer
+Multimodal Gen-AI for Fundamental Investment Research,"Hai Wang, Ting-Yu Chang"
+Search Methods for Image Generation,Adam Klein
+Synthetic data to train better spam filters,Kai Wang
+Diffusion-based Falsification of Cyber-Physical Systems,"Harrison Delecki, Marc Schlichting"
+Stable Diffusion and Beyond,ChunWei Chan
+Generating a building’s digital twin from a single street view image,Kevin Mayer
+RadGANvolve: CT-based synthetic MRI generation with GANs,"Reine Dayekh, Maayane Attias, Sushmita Belede"
+Generative Modeling for Immersive Game Scenes,"Yusef Qazi, Weidi Pan, Tushar Gupta"
+Subject-specific Customization of Video Diffusion Models,"Xinzhi Fan, Shaoheng Zhou, Masoud Charkhabi"
+Identity-Preserving Human Face Editing with Parameter-Efficient Training,"Ji Hun Wang, Youjin Song, Andrew Hyungmin Lee"
+A Generative Approach to Reconstruct Perceived Text with MEG Signals,"Shubh Khanna, Abel John"
+Plan My Trip,Manolo Alvarez
+Conditional Latent Diffusion Models for Accelerated MRI,"Yonatan Urman, Ashwin Kumar, Zachary Shah"
+Thumbs Up: Enhancing Accessibility of Content Creation Through Thumbnail Generation,"Sreya Halder, Lauren Kong, Jasmine Bilir"
+OccFacto: Controllable Part-Based Mesh Generation with Occupancy Networks,"Aniketh Iyengar, William Pan"
+Controlling Stable Diffusion for Outfit Swapping,Ran Geng
+Adoption of LLMs in Corporate Environments,"Yuwen Qiu, Cheng Shen, Saurabh Malik"
+Learned Optimizer with Diffusion Models,"Apoorv Srivastava, Chaitanya Pankajkumar Patel"
+Controllable Audio Generation with Auto-Regressive Self-Attention Modeling and Neural Compression,"William Shabecoff, Andrew Romero"
+On Cross-modal Information Retrieval using Latent-variable Spaces from Brain Activities,"Albert Cai, Omar Abul-Hassan"
+Accelerated Molecular Conformation Generation with Fast Diffusion Model Sampling,"Cesar Lema, Neal Vaidya, Romain Lacombe"
+Electripedia,Tony Liu
+Exploring Fine-Tuning Methods for Stable Diffusion,Pura Peetathawatchai
+Integrating Affective Dynamics into Deepfake Technology for Enhanced Emotional Realism in Talking Head Synthesis,"Aditya Bora, Nikhil Suresh"
+GANs for synthetic returns of correlated securities,Henrique Monteiro
+seg-zero: Diffusion Models for Controllable Human Face Editing,"Fan Pu Zeng, Jitong Zhou, Zhiyu Xie"
+Generative Pretraining of Medical AI Models,"Rui Deng, Bohan Li"
+Stable Diffusion and Beyond,"Nithin Akkati, Mubarak Ali Seyed Ibrahim"
+Abstract Graph Generation with DiGress,Angelo Gagliardi
+Fine-Tuning Stable Diffusion for Conditional Generative Stylist Application,Miria Feng
+Personalized Text-to-Image Generation with Identity Preservation,Bofei Zhu
+Generating Bubbles for Fluid Animations,Kangrui Xue
+3D-Aware Human Image Generation with Diffusion,Paris Zhang
+It's From Bits: Binary Generative Flows,Tom Saberhagen
+Diffusion Evolution: Evolving Pokemon with Stable Diffusion,"Pranay Agrawal, Josh Singh, Chethan Bhateja"
+Hare in Tortoise Shell (HITS): Improving Diffusion TTS using Non-Autoregressive Mel-Spectrograms latents,"Tomas Coghlan, Parth Sarthi, Salman Abdullah"
+Stable Diffusion and Beyond,Ilias Kasoumis
+Effectiveness of Generative Self-Supervised Learning on Neural Inertial Navigation,Anson Wang
+Comparative Study of Generative Models on mono-track music generation in the context of other tracks,Krithika Ramakrishnan
+Generative Models for Image Compression,Spencer Graves
+Generating 2D Materials with Deep Graph-based Models,"Giulia Socolof, Sathya Edamadaka"
+manipulativeLMs: Social Reasoning and Manipulative Behavior in Language Models,Chinmaya Andukuri
+Learned Chaos in Generative Models Through Reservoir Computing,"Quinn McIntyre, Dhruv Pai, Andres Carranza"
+"You Text, We Sketch: Text-Guided Diffusion for Vectorized Sketch Generation","Yash Shah, Samy Cherfaoui"
+MeGAN: Medical Imagery Generation via Learned Augmentations,"Xiluo He, Tom Nguyen"
+Prompt-based image generation of whole slide images (WSI) for tumor microenvironment characterization,"Adam Chun, Ekin Tiu"
+Teaching a language model a causal system through passive observations,Ayush Chakravarthy
+Physics Based Character Animation via diffusion models,Takara Truong
+Diffusion and Meta-learning for Molecule Conformation Generation,"Rafael Basto, Armando Borda, Evelyn Choi"
+Generative Models for Improving lung pathologies classification using X-rays Images,"Kuniaki Iwanami, Juan Pablo Triana Martinez"
+StarCraft 2 Fog Removal with Generative Models,"Cynthia Li, Yang Fan"
+Generating Accurate Quotations of Court Cases,Sam Gensburg
+Efficient Recovery of Text from Embeddings,Ramgopal Venkateswaran
+Geometric Latent Conditional Diffusion Models for 3D Molecule Generation,"Aksh Garg, Isaac Ju, Sanjay Nagaraj"
+Planning with Generative World Models in Robotics,"Hengyuan Hu, Jonathan Yang, Tianyu Hua"
+Cinematic Image Generation with Diffusion Models,"Arjun Karanam, Raghav Ganesh, Ronak Malde"
+Efficient Generative Modeling of Long-Horizon Videos,"Gabrael Levine, Jaden Clark"
+Extending FlowSite to Protein Sidechain Flexibility,Milena Mathew
+Tic-Tac-Train: Guiding ChatGPT to play tic-tac-toe optimally with logical reasoning,"Denise Lee, Benjamin Martinez, Samuel Do"
+End-to-End Semantic Anomaly Detection using a Visual Language Model,Matt Foutter
+Stable Diffusion and Beyond,Ihor Leshchyshyn
+dressifyMe.ai,"Jean Rodmond Jr Laguerre, Zouberou Sayibou"
+Deep Generative Models for Technical Analysis,"Michael Cho, Michael Marcotte"
+Facial Editing through ControlNet,"Jason Shu-Yang Wang, Yiming Ni"
+Adapting Text-to-Image Models for Video Generation Using Few Shot Learning,"Samir Agarwala, Hong Ju Jeon, Jared Watrous"
+Towards Layout-Aware Screenshot Generation,Yuan Gao
+Meta-Learning Online Adaptation of General Language Models,Nathan Hu
+Portfolio Diffusion: Generative modelling for investment portfolio construction,Andrey Popov
+Variational Autoencoder for Wildfire Risk Analysis In the Context of Financial Industry's Climate Scenario Analysis,Jonathan Hague
+Improving Patch-Based Diffusion Models to Restore Images with Adverse Weather Conditions,"Kenny Dao, Viraj Mehta, Jeremy Tian"
+Diffusion-Based Generation of Previously Unseen Cell Biology,Ayush Agrawal
+Accelerating Parallel Diffusion Model Inference with Rectified Flows,Sahil Jain
+Sketch-to-CAD: Generating Computer Aided Design Models from Sketches,Ghadi Nehme
+Targeted Machine Unlearning for Diffusion Models,"Varun Desai, Nipun Argawala, Juan Muneton Gallego"
+Exploring Text-to-Image and Text-to-Text Generation Using Diffusion Models,"Roy Yuan, Constance Horng"
+Efficient Diffusion Model for Audio Inpainting,"Jadon Geathers, Kiran Bhat"
+Deep generative model based 3D image reconstruction for Electrical Impedance Tomography,Haijing Zhang
+Redessian Models - A Novel Regularisation Method for Disentangled Representation Learning,"Jubayer Hamid, Andy Tang, Sheryl Hsu"
+Tic-Tac-Toe for LLMs,Jihee Suh
+Stable Diffusion and Beyond,Aniruddh Ramrakhyani
+A Comparative Study of Generative AI Techniques for Music,"Durga Malladi, Ranajit Gangopadhyay, Jacob Smith"
+Towards Better Facial Image Editing,"Carson Murtuza Lanier, Charlotte Nicks"
+Revision Models: Exploring Sequence Regeneration in Language Models,"Jay Martin, Manan Patel, Shrey Verma"
+Consistency Accelerated Robot Inference,Aaditya Prasad
+Complex Pattern Recognition in LLMs: Using Language Models to Identify 'Disruptive Innovation',Matthew Wise
+Mitigating Out-of-Distribution Inference Errors in Score-Based Generative Models,"Derek Chong, Matthew Jin, Jenny Xu"
+Instruct-3D-to-3D: Editing 3D Scenes with Instructions,"Chi Yo Tsai, Eliza Huang, Fan Xie"
+A Bond-Prediction-Focused Approach to Novel Molecular Generation of Large Molecules,"Bay Foley-Cox, David Wendt"
+VisioNet: Vision-to-Audio Generation with Large Language Model,"Yingke Wang, Han Bai, Haoming Zou"
+Voxel Diffusion,"Brendon Matusch, James Zheng"
+A Comparative Study of Voice Synthesis Techniques,Afshin Babveyh
+Finetuning text to image diffusion models for transparent object image synthesis,Kevin Lin
+Drawing Wizard: Image-to-image Translation with Conditional GANs,Yujie Gao
+Sequence (re)-generation with different orderings,"Nikil Ravi, Emil Biju, Sagnik Bhattacharya"
+FermiGPT: Combining programmatic reasoning of LLMs with Retrieval-Augmented Generation,Sidhart Krishnan
+Audio Reactive AI Generated DJ Visuals,"Adam Zhao, Hannah Kim, Matt Reed"
+Robust Text-based Image Editing through Cross-Attention in Diffusion Models,Yining Mao
+Mistral 7B Chess,Ozan Adiguzel
+Multi-Singer Voice Interpolation: A Deep Generative Approach to Hybrid Voice Creation in Singing,Guinness Chen
+Subject Specific Fine-tuning to Create Synthetic Datasets for Computer Vision in Sports,Arnav Gangal
+When At First You Don’t Succeed: Knowing When to Try Again in Novel Test-Time Scenarios,Maximilian Du
+Style2Art: Artwork Generation with Style and Subject,Jiacheng (JC) Hu
+Improving Human Hands in Stable Diffusion,Matthew Hayes
+EEG-to-fMRI Generation for Data Synthesis in Brain Sciences and Diagnosis,"Binxu Li, Jiaqi Wu"
+Study of Semiconductor Wafer Patterns with Deep Generative models,Chuanqi Chen
